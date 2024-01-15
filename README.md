@@ -5,8 +5,8 @@
 <details>
   <summary>:zap: About me!</summary>
 
-### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
-- 🦾 I love the PowerLifting!
+### I LOVE ANIME AND TERROR MOVIE 💻!!
+- 🦾 I love the bicicle!
 - 🤓  I’m currently learning everything
 - 👾  I am very curious and that is why you start studying programming
 - 🗒  I am currently very obsected with learning vimscript
