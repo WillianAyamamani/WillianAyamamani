@@ -10,6 +10,7 @@
 - 🤓  I’m currently learning everything
 - 👾  I am very curious and that is why you start studying programming
 - 🗒  I am currently very obsected with learning vimscript
+- 🤓  I'm use Snake Case
 </details>
 
 <br />
